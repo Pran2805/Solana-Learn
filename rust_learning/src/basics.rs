@@ -36,7 +36,7 @@ pub fn index(){
     }
 }
 
-pub fn loops(num: i8){
+pub fn loops(num:i128){
     for i in 0..num{
         print!("{} ", i)
     }
